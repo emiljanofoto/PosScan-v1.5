@@ -57,11 +57,4 @@ For any questions or support, please contact emiljanofoto@gmail.com
 the software is under contstruction!!!
 
 
-
-
-
-
-# PosScan
-# PosScan
-# PosScan-v1.5
 # PosScan-v1.5
