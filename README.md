@@ -18,7 +18,7 @@ Required Python packages: tkinter, openpyxl, Pillow, pyodbc
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/posscan.git
+git clone https://github.com/emiljanofoto/PosScan-v1.5.git
 cd posscan
 
 Install required packages:
